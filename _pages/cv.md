@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<p align="right">
+  <img src="/images/photo_group_leader.jpg" width="200" style="float: left; margin-right: 20px; margin-bottom: 5px; margin-top: 10px;" />
+</p>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+I graduated from Lobachevsky State University in Russia in 2012 with a degree in theoretical physics, specialising in nonlinear dynamics and computational neuroscience. I later obtained my PhD in molecular neurobiology at the University of Osnabrück, Germany, in 2016, under the supervision of [Prof. Roland Brandt](https://www.neurobiologie.uni-osnabrueck.de/) and [Prof. Wolfgang Junge](https://www.home.uni-osnabrueck.de/wjunge/). My research focused on the regulation of the neuronal cytoskeleton by the microtubule-associated protein Tau and its role in Alzheimer’s disease.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+From 2016 to 2017, I was a postdoctoral fellow in the group of [Prof. Helmut Grubmüller](https://www.mpinat.mpg.de/grubmueller) at the Max Planck Institute for Multidisciplinary Sciences in Göttingen, Germany. In 2017, I was awarded an individual research grant by the German Research Foundation and promoted to project leader in the Department of Theoretical and Computational Biophysics. Between 2017 and 2024, my research investigated the nanoscale mechanics of microtubule self-assembly using large-scale computer simulations, as well as developing automated structure refinement methods for cryo-electron microscopy. In 2023, I was elected as an associate member of the International Max Planck Research School for Physics of Biological and Complex Systems ([IMPRS-PBCS](https://www.uni-goettingen.de/en/sh/58718.html)), and appointed as a thesis supervisor for the Research Training Group “Cytoskeleton elements of active matter – from molecular interactions to cellular biophysics” ([CYTAC](https://www.uni-goettingen.de/rtg2756)) at the University of Göttingen.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+In 2024, I joined the [Division of Computational Biology](https://www.dundee.ac.uk/life-sciences/computational-biology) in the School of Life Sciences at the University of Dundee to establish my own research group focused on uncovering the biomechanics of chromosome segregation during mitosis, driven by microtubule-based forces.
 
-Publications
+Funding
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Springboard Award, Academy of Medical Sciences** (2025 – 2027)
+  * Project: *"A computational approach to understand kinetochore-mediated force generation by microtubules in chromosome segregation"*
+  * Role: *Principal Investigator*
+
+* **Research Training Group 2756/1, German Research Foundation** (2023 – 2029)
+  * Project: *"Cytoskeletal elements of active matter – from molecular interactions to cellular biophysics (CYTAC)"*
+  * Role: *Thesis Supervisor, Co-Principal Investigator together with Prof. Helmut Grubmüller*
+
+* **Individual Research Grant IG 109/1-1, German Research Foundation** (2017 – 2020)
+  * Project: *"Nanoscale mechanics of microtubule dynamic instability"*
+  * Role: *Principal Investigator*
+
