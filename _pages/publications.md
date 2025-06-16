@@ -12,7 +12,7 @@ You can find the full list of publications on my [Google Scholar](https://schola
 Key papers
 ------
 
-**#** = co-corresponding author, **\*** = co-first author
+**#** = corresponding author, **\*** = first author
 
 **2025**
 
