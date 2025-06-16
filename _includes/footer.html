@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+{% if site.author.github or site.author.bitbucket or site.author.bluesky or site.autor.twitter %}
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -12,8 +12,11 @@
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% if site.author.bluesky %}
+      <li><a href="http://bsky.app/profile/{{ site.author.bluesky }}"><i class="fab fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>
+    {% endif %}
+    {% if site.author.twitter %}
+      <li><a href="http://x.com/{{ site.author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter/X</a></li>
     {% endif %}
   </ul>
 </div>
