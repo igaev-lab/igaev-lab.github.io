@@ -29,7 +29,7 @@ author:
   location         : "Dundee, UK"
   employer         : "School of Life Sciences, UoD"
   uri              : # URL
-  #email            : "migaev001@dundee.ac.uk" 
+  # email            : # example: name@host.com
 
   # Academic websites
   academia         : # URL
