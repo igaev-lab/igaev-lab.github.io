@@ -40,7 +40,7 @@ Microtubule instability driven by longitudinal and lateral strain propagation.
 
 **2019**
 
-M Igaev<sup>#</sup>, C Kutzner, LV Bock, AC Vaiana<sup>#</sup> and H Grubmüller<sup>#</sup>.
+**M Igaev<sup>#</sup>**, C Kutzner, LV Bock, AC Vaiana<sup>#</sup> and H Grubmüller<sup>#</sup>.
 Automated cryo-EM structure refinement using correlation-driven molecular dynamics.
 **eLife**, 8: e43542.
 [DOI](https://doi.org/10.7554/eLife.43542) | [PDF](/files/igaev-et-al-elife-2019.pdf) |
