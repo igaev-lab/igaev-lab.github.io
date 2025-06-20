@@ -15,11 +15,11 @@ I graduated from Lobachevsky State University, Russia, in 2012 with a degree in 
 
 From 2016 to 2017, I was a postdoctoral fellow in the group of [Prof. Helmut Grubmüller](https://www.mpinat.mpg.de/grubmueller) at the Max Planck Institute for Multidisciplinary Sciences in Göttingen, Germany. In 2017, I was awarded an individual research grant by the German Research Foundation and promoted to a project leader in the Department of Theoretical and Computational Biophysics. Between 2017 and 2024, my research investigated the nanoscale mechanics of microtubule self-assembly using large-scale computer simulations, as well as developing automated structure refinement methods for cryo-electron microscopy. In 2023, I was elected as an associate member of the International Max Planck Research School for Physics of Biological and Complex Systems ([IMPRS-PBCS](https://www.uni-goettingen.de/en/sh/58718.html)) and appointed as a thesis supervisor in the Research Training Group “Cytoskeleton elements of active matter – from molecular interactions to cellular biophysics” ([CYTAC](https://www.uni-goettingen.de/rtg2756)) at the University of Göttingen.
 
-In 2024, I joined the [Division of Computational Biology](https://www.dundee.ac.uk/life-sciences/computational-biology) in the School of Life Sciences at the University of Dundee to establish my own research group aiming to uncover the biomechanics of chromosome segregation during mitosis driven by microtubule-based forces.
+In October 2024, I joined the [Division of Computational Biology](https://www.dundee.ac.uk/life-sciences/computational-biology) in the School of Life Sciences at the University of Dundee to establish my own research group aiming to uncover the biomechanics of chromosome segregation during mitosis driven by microtubule-based forces.
 
 Funding and awards
 ======
-* **Springboard Award, Academy of Medical Sciences** (2025 – 2027)
+* **Springboard Award, Academy of Medical Sciences, UK** (2025 – 2027)
   * Project: *"A computational approach to understand kinetochore-mediated force generation by microtubules in chromosome segregation"*
   * Role: *Principal Investigator*
 
